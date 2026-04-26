@@ -87,7 +87,7 @@ const CreateTodo = () => {
 
       {/* Right Side Form */}
       <div className="col-md-6 bg-white p-5">
-        <h2 className="text-center mb-4 fw-bold text-success">
+        <h2 className="text-center mb-4 fw-bold text-primary">
           Create New Task
         </h2>
 
@@ -123,7 +123,7 @@ const CreateTodo = () => {
             <input
               type="submit"
               value="Create Task"
-              className="form-control btn btn-success rounded-3 mt-2"
+              className="form-control btn btn-primary rounded-3 mt-2"
             />
           </div>
         </form>

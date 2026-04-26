@@ -92,7 +92,7 @@ const Login = () => {
             <input
               type="submit"
               value="Login"
-              className="form-control btn btn-success rounded-3 mt-2"
+              className="form-control btn btn-primary rounded-3 mt-2"
             />
           </div>
         </form>
